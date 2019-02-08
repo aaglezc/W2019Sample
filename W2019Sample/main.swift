@@ -119,10 +119,10 @@ else
 }
 
 
-//while n > 0
-//{
-//    print("Gerry Wayne", separator: "*", terminator: "\n")
-//    n = n - 1
-//}
+while n > 0
+{
+    print("Gerry Wayne", separator: "*", terminator: "\n")
+    n = n - 1
+}
 
 
